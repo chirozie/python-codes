@@ -1,0 +1,1 @@
+The decrypt funtion can be ignored. You can easily decrypt the messages with encrypt function by using a negative sign on the shift number used to encrypt the message. 
